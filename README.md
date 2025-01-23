@@ -1,10 +1,8 @@
-# 💫 About Me:
-🔭 A passionate full-stack developer from VietNam !
+# Hi there 👋  
+I'm Thuan, a passionate software developer driven by creativity and dedication.
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tqt68688) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tqthuan6868) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611aast19gsc5mgp756hbf7p62v4k5xye37zmhkybnp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image 1" width="300">
+  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif?cid=ecf05e47ykg1gb8stpqrxeframy62hkd3s8p8587gh0m1l95&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image 2" width="300">
+  <img src="https://media.giphy.com/media/ehw7lcf9szJJfJKGSJ/giphy.gif?cid=ecf05e47ornb717qwzkkvjppvjddjha0jayvznnivot684p9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image 3" width="300">
+</p>
