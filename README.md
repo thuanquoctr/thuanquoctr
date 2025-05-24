@@ -2,7 +2,5 @@
 I'm Thuan, a passionate software developer driven by creativity and dedication.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611aast19gsc5mgp756hbf7p62v4k5xye37zmhkybnp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image 1" width="200">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472djrqvlt6wcsm3tb6jqlsh6pifpu53dsq29w7b4o&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image 2" width="200">
-  <img src="https://media.giphy.com/media/ehw7lcf9szJJfJKGSJ/giphy.gif?cid=ecf05e47ornb717qwzkkvjppvjddjha0jayvznnivot684p9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image 3" width="200">
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="Image 1" width="200">
 </p>
